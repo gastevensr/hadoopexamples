@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package com.gasr.hadoopbook.chapter09;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+
+/**
+ * @author alex
+ *
+ */
+public class MaxTemperatureMapperWithCounters extends Mapper<LongWritable, Text, Text, IntWritable> {
+	
+	enum Temperature {
+		MISSING,
+		MALFORMED
+	}
+
+	//static class MaxTemperatureMapperWIthCounters
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	}
+
+}

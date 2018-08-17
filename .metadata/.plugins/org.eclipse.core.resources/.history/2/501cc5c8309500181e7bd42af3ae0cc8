@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.gasr.hadoopbook.chapter19;
+
+/**
+ * @author alex
+ *
+ */
+public class MaxTemperatureSparkJava8 {
+
+}

@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.gasr.hadoopbook.chapter16;
+
+import java.io.IOException;
+
+import org.apache.pig.FilterFunc;
+import org.apache.pig.data.Tuple;
+
+/**
+ * @author alex
+ *
+ */
+public class IsGoodQuality extends FilterFunc {
+
+	@Override
+	public Boolean exec(Tuple input) throws IOException {
+		
+		return null;
+	}
+
+}

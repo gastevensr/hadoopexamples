@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.gasr.hadoopbook.chapter19.MaxTemperatureSparkl&apos; to &apos;MaxTemperatureSpark&apos;&#x0A;- Original project: &apos;hadoopbook&apos;&#x0A;- Original element: &apos;com.gasr.hadoopbook.chapter19.MaxTemperatureSparkl&apos;&#x0A;- Renamed element: &apos;com.gasr.hadoopbook.chapter19.MaxTemperatureSpark&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MaxTemperatureSparkl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.gasr.hadoopbook.chapter19{MaxTemperatureSparkl.java[MaxTemperatureSparkl" matchStrategy="1" name="MaxTemperatureSpark" qualified="false" references="true" similarDeclarations="false" stamp="1533077365287" textual="false" version="1.0"/>
+</session>
